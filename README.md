@@ -13,6 +13,7 @@ required.
 | --- | --- | --- |
 | [ghmux](https://github.com/nurazon59/ghmux) | 0.1.0 | Manage multiple GitHub accounts |
 | [nippo](https://github.com/nurazon59/nippo) | 0.2.1 | Manage daily reports from the command line |
+| [pull-request-review-context](https://github.com/nurazon59/pull-request-review-context) | 0.2.0 | Extract pull request review comments and target code lines |
 | [rport](https://github.com/nurazon59/rport) | 0-unstable-2026-03-04 | Pick an available local TCP port |
 
 ## Usage
