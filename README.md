@@ -7,6 +7,12 @@ exposes `packages.<system>.<name>` and `overlays.default` for Apple Silicon
 macOS and ARM64/x86-64 Linux. Nix with `nix-command` and `flakes` enabled is
 required.
 
+## Packages
+
+| Package | Version | Description |
+| --- | --- | --- |
+| [ghmux](https://github.com/nurazon59/ghmux) | 0.1.0 | Manage multiple GitHub accounts |
+
 ## Usage
 
 Run a package without installing it:
