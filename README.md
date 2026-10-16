@@ -12,6 +12,7 @@ required.
 | Package | Version | Description |
 | --- | --- | --- |
 | [ghmux](https://github.com/nurazon59/ghmux) | 0.1.0 | Manage multiple GitHub accounts |
+| [rport](https://github.com/nurazon59/rport) | 0-unstable-2026-03-04 | Pick an available local TCP port |
 
 ## Usage
 
