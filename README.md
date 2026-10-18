@@ -1,6 +1,8 @@
 # nix-packages
 
-Nix packages for [nurazon59](https://github.com/nurazon59)'s CLI tools.
+Nix package definitions for software and fonts distributed by [nurazon59](https://github.com/nurazon59).
+Keeping them in this flake lets personal forks and releases be packaged without
+maintaining a Nixpkgs fork.
 
 Packages build from pinned source revisions with Nixpkgs builders. The flake
 exposes `packages.<system>.<name>` and `overlays.default` for Apple Silicon
@@ -15,6 +17,7 @@ required.
 | [nippo](https://github.com/nurazon59/nippo) | 0.2.1 | Manage daily reports from the command line |
 | [pull-request-review-context](https://github.com/nurazon59/pull-request-review-context) | 0.2.0 | Extract pull request review comments and target code lines |
 | [rport](https://github.com/nurazon59/rport) | 0-unstable-2026-03-04 | Pick an available local TCP port |
+| [nerd-fonts-0xproto-nurazon59](https://github.com/nurazon59/0xProto) | 2.501-nurazon59.1 | 0xProto Nerd Font from nurazon59's personal release |
 
 ## Usage
 
